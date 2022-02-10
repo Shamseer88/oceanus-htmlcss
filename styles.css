@@ -86,8 +86,11 @@ input[type="checkbox"] {
   font-size: 18px;
   line-height: 21px;
   padding: 10px 35px;
+  border: none;
 }
-
+.button:hover {
+  cursor: pointer;
+}
 .button-div {
-  padding-top: 40px;
+  padding-top: 10px;
 }
